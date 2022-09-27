@@ -1,9 +1,3 @@
-# skimmy12.github.io
-# skimmy12.github.io
-# skimmy12.github.io
-# skimmy12.github.io
-# skimmy12.github.io
-# stpi12.github.io
-# stpi12.github.io
-# stpi12.github.io
-# stpi12.github.io
+<code>
+print("hello world")
+</code>
