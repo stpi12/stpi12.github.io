@@ -1,9 +1,8 @@
 <html>
   
 <code>
-Button("Click here"){
-            
-        }
+    Button("Click here"){
+    }
 </code>
 
 </html>
